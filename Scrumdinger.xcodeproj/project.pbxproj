@@ -15,6 +15,7 @@
 		4FA916F52591FD9700EAE53F /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA916F42591FD9700EAE53F /* CardView.swift */; };
 		EE77BBF9259228F90035201D /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE77BBF8259228F90035201D /* ScrumsView.swift */; };
 		EE77BBFC259237EE0035201D /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE77BBFB259237EE0035201D /* Color+Codable.swift */; };
+		EE77BBFF2592409B0035201D /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE77BBFE2592409B0035201D /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4FA916F42591FD9700EAE53F /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		EE77BBF8259228F90035201D /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		EE77BBFB259237EE0035201D /* Color+Codable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
+		EE77BBFE2592409B0035201D /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				4FA916E42591F45E00EAE53F /* Preview Content */,
 				4FA916F42591FD9700EAE53F /* CardView.swift */,
 				EE77BBF8259228F90035201D /* ScrumsView.swift */,
+				EE77BBFE2592409B0035201D /* DetailView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				4FA916E12591F45D00EAE53F /* MeetingView.swift in Sources */,
 				4FA916F12591FD4D00EAE53F /* DailyScrum.swift in Sources */,
 				4FA916F52591FD9700EAE53F /* CardView.swift in Sources */,
+				EE77BBFF2592409B0035201D /* DetailView.swift in Sources */,
 				EE77BBF9259228F90035201D /* ScrumsView.swift in Sources */,
 				EE77BBFC259237EE0035201D /* Color+Codable.swift in Sources */,
 				4FA916DF2591F45D00EAE53F /* ScrumdingerApp.swift in Sources */,
