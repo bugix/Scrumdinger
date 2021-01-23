@@ -13,6 +13,7 @@
 		4FA916E62591F45E00EAE53F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FA916E52591F45E00EAE53F /* Preview Assets.xcassets */; };
 		4FA916F12591FD4D00EAE53F /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA916F02591FD4D00EAE53F /* DailyScrum.swift */; };
 		4FA916F52591FD9700EAE53F /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA916F42591FD9700EAE53F /* CardView.swift */; };
+		4FCC0D4025BC38C10012EE3C /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCC0D3F25BC38C10012EE3C /* EditView.swift */; };
 		EE77BBF9259228F90035201D /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE77BBF8259228F90035201D /* ScrumsView.swift */; };
 		EE77BBFC259237EE0035201D /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE77BBFB259237EE0035201D /* Color+Codable.swift */; };
 		EE77BBFF2592409B0035201D /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE77BBFE2592409B0035201D /* DetailView.swift */; };
@@ -27,6 +28,7 @@
 		4FA916E72591F45E00EAE53F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4FA916F02591FD4D00EAE53F /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		4FA916F42591FD9700EAE53F /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		4FCC0D3F25BC38C10012EE3C /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		EE77BBF8259228F90035201D /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		EE77BBFB259237EE0035201D /* Color+Codable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		EE77BBFE2592409B0035201D /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				4FA916F42591FD9700EAE53F /* CardView.swift */,
 				EE77BBF8259228F90035201D /* ScrumsView.swift */,
 				EE77BBFE2592409B0035201D /* DetailView.swift */,
+				4FCC0D3F25BC38C10012EE3C /* EditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			files = (
 				4FA916E12591F45D00EAE53F /* MeetingView.swift in Sources */,
 				4FA916F12591FD4D00EAE53F /* DailyScrum.swift in Sources */,
+				4FCC0D4025BC38C10012EE3C /* EditView.swift in Sources */,
 				4FA916F52591FD9700EAE53F /* CardView.swift in Sources */,
 				EE77BBFF2592409B0035201D /* DetailView.swift in Sources */,
 				EE77BBF9259228F90035201D /* ScrumsView.swift in Sources */,
